@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/6041464/Documents/EnhancedMathLibrary/build",
+  "command": "C:\\Users\\6041464\\gcc\\bin\\ccache-g++.exe -g -o CMakeFiles\\MathEnhanced.dir\\CMakeFiles\\4.3.2\\CompilerIdCXX\\CMakeCXXCompilerId.cpp.obj -c C:\\Users\\6041464\\Documents\\EnhancedMathLibrary\\build\\CMakeFiles\\4.3.2\\CompilerIdCXX\\CMakeCXXCompilerId.cpp",
+  "file": "C:/Users/6041464/Documents/EnhancedMathLibrary/build/CMakeFiles/4.3.2/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+  "output": "C:/Users/6041464/Documents/EnhancedMathLibrary/build/CMakeFiles/MathEnhanced.dir/CMakeFiles/4.3.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.obj"
+},
+{
+  "directory": "C:/Users/6041464/Documents/EnhancedMathLibrary/build",
+  "command": "C:\\Users\\6041464\\gcc\\bin\\ccache-g++.exe -g -o CMakeFiles\\MathEnhanced.dir\\src\\core.cpp.obj -c C:\\Users\\6041464\\Documents\\EnhancedMathLibrary\\src\\core.cpp",
+  "file": "C:/Users/6041464/Documents/EnhancedMathLibrary/src/core.cpp",
+  "output": "C:/Users/6041464/Documents/EnhancedMathLibrary/build/CMakeFiles/MathEnhanced.dir/src/core.cpp.obj"
+},
+{
+  "directory": "C:/Users/6041464/Documents/EnhancedMathLibrary/build",
+  "command": "C:\\Users\\6041464\\gcc\\bin\\ccache-g++.exe -g -o CMakeFiles\\MathEnhanced.dir\\src\\lib\\math_basic.cc.obj -c C:\\Users\\6041464\\Documents\\EnhancedMathLibrary\\src\\lib\\math_basic.cc",
+  "file": "C:/Users/6041464/Documents/EnhancedMathLibrary/src/lib/math_basic.cc",
+  "output": "C:/Users/6041464/Documents/EnhancedMathLibrary/build/CMakeFiles/MathEnhanced.dir/src/lib/math_basic.cc.obj"
+}
+]

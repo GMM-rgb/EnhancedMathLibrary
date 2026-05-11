@@ -1,0 +1,5 @@
+# ninja log v7
+2	137	8002211028072762	CMakeFiles/MathEnhanced.dir/CMakeFiles/4.3.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.obj	b05ccb12a3772028
+11	141	8002211028241117	CMakeFiles/MathEnhanced.dir/src/lib/math_basic.cc.obj	2db64fdfb673d96d
+7	728	8002211028072762	CMakeFiles/MathEnhanced.dir/src/core.cpp.obj	e4d41a7ec15aac
+5	717	8002212105378903	CMakeFiles/MathEnhanced.dir/src/core.cpp.obj	e4d41a7ec15aac
