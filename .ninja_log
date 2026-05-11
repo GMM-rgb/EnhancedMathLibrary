@@ -1,5 +1,15 @@
 # ninja log v7
 2	137	8002211028072762	CMakeFiles/MathEnhanced.dir/CMakeFiles/4.3.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.obj	b05ccb12a3772028
 11	141	8002211028241117	CMakeFiles/MathEnhanced.dir/src/lib/math_basic.cc.obj	2db64fdfb673d96d
-7	728	8002211028072762	CMakeFiles/MathEnhanced.dir/src/core.cpp.obj	e4d41a7ec15aac
 5	717	8002212105378903	CMakeFiles/MathEnhanced.dir/src/core.cpp.obj	e4d41a7ec15aac
+5	37	8002214736424572	CMakeFiles/MathEnhanced.dir/CMakeFiles/4.3.2/CompilerIdCXX/CMakeCXXCompilerId.cpp.obj	b05ccb12a3772028
+15	44	8002214736555047	CMakeFiles/MathEnhanced.dir/src/lib/math_basic.cc.obj	2db64fdfb673d96d
+11	63	8002214736521679	CMakeFiles/MathEnhanced.dir/src/core.cpp.obj	e4d41a7ec15aac
+66	222	8002214737088117	libMathEnhanced.a	7faac3e652ca9ef3
+24	146	8002216417363187	CMakeFiles/MathEnhanced.dir/src/lib/math_basic.cc.obj	2db64fdfb673d96d
+20	764	8002216417319626	CMakeFiles/MathEnhanced.dir/src/core.cpp.obj	e4d41a7ec15aac
+764	825	8002216424659829	libMathEnhanced.a	7faac3e652ca9ef3
+22	726	8002216558408790	CMakeFiles/MathEnhanced.dir/src/core.cpp.obj	e4d41a7ec15aac
+726	791	8002216565409390	libMathEnhanced.a	7faac3e652ca9ef3
+17	848	8002216968476689	CMakeFiles/MathEnhanced.dir/src/lib/math_basic.cc.obj	2db64fdfb673d96d
+848	913	8002216976675867	libMathEnhanced.a	7faac3e652ca9ef3
