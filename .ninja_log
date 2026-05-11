@@ -13,3 +13,6 @@
 726	791	8002216565409390	libMathEnhanced.a	7faac3e652ca9ef3
 17	848	8002216968476689	CMakeFiles/MathEnhanced.dir/src/lib/math_basic.cc.obj	2db64fdfb673d96d
 848	913	8002216976675867	libMathEnhanced.a	7faac3e652ca9ef3
+10	58	8002219537243774	CMakeFiles/MathEnhanced.dir/src/lib/math_basic.cc.obj	2db64fdfb673d96d
+6	752	8002219537243774	CMakeFiles/MathEnhanced.dir/src/core.cpp.obj	e4d41a7ec15aac
+752	815	8002219544754730	libMathEnhanced.a	7faac3e652ca9ef3
